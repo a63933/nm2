@@ -4,11 +4,11 @@
   "description": "Awesome node module",
   "keywords": [
     "nm2",
-    "zce"
+    "a63933"
   ],
-  "homepage": "https://github.com/zce/nm#readme",
+  "homepage": "https://github.com/a63933/nm2#readme",
   "bugs": {
-    "url": "https://github.com/zce/nm/issues"
+    "url": "https://github.com/a63933/nm2/issues"
   },
   "license": "MIT",
   "author": "李政毅 <lizhengyi_m@163.com>",
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zce/nm.git"
+    "url": "git+https://github.com/a63933/nm2.git"
   },
   "scripts": {
     "lint": "standard --fix"
