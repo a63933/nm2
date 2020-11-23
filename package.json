@@ -1,0 +1,41 @@
+{
+  "name": "nm2",
+  "version": "0.1.0",
+  "description": "Awesome node module",
+  "keywords": [
+    "nm2",
+    "zce"
+  ],
+  "homepage": "https://github.com/zce/nm#readme",
+  "bugs": {
+    "url": "https://github.com/zce/nm/issues"
+  },
+  "license": "MIT",
+  "author": "李政毅 <lizhengyi_m@163.com>",
+  "files": [
+    "lib",
+    "bin"
+  ],
+  "main": "lib/index.js",
+  "bin": "bin/nm2.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zce/nm.git"
+  },
+  "scripts": {
+    "lint": "standard --fix"
+  },
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0"
+  },
+  "devDependencies": {
+    "standard": "^14.3.4"
+  },
+  "engines": {
+    "node": ">=8"
+  }
+}
