@@ -1,6 +1,6 @@
 {
   "name": "nm2",
-  "version": "0.2.0",
+  "version": "0.5.2",
   "description": "Awesome node module",
   "keywords": [
     "nm2",
@@ -19,7 +19,8 @@
   "main": "lib/index.js",
   "bin": "bin/nm2.js",
   "directories": {
-    "lib": "lib"
+    "lib": "lib",
+    "bin": "bin"
   },
   "repository": {
     "type": "git",
